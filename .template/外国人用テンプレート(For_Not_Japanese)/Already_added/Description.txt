@@ -1,0 +1,3 @@
+
+This channel is a place to store data that has already been reflected in the SSW data.
+If you want to name the parent folder of this location, feel free to create a folder to make it easier to use.

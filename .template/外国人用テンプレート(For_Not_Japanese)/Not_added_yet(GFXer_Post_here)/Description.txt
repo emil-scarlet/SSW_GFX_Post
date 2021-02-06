@@ -1,0 +1,3 @@
+This channel is where you save data that has not yet been applied to the SSW data.
+After applying the image, please move the data to the "Applied" folder. Thank you for your cooperation.
+If you want to name the parent folder of this location, please feel free to create your own folder to make it easier to use.
